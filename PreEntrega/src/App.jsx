@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 function App() {
 
   return (
-    <Router>
+     <Router>
       <Header />
       <Routes>
         <Route path="/administracion" element={<Login />} />
