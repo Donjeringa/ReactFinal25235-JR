@@ -1,10 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Home from './components/Home';
-import Ofertas from './components/Ofertas';
-import Infaltables from './components/Infaltables';
-import Login from './components/Login'; 
-import Footer from './components/Footer'
+import Header from './componets/Header';
+import Footer from './componets/Footer';
+import Home from './componets/Home';
+import Ofertas from './componets/Ofertas';
+import Infaltables from './componets/Infaltables';
+import Login from './componets/Login';
 
 function App() {
 
