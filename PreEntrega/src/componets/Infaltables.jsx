@@ -1,5 +1,5 @@
 import React from "react";
-import ListaProductos from "./ListaProductos";
+import ListaProductos from "../ListaProductos";
 const Infaltables =()=>{
     return(
         <div>
